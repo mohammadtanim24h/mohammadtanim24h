@@ -4,8 +4,8 @@
 
 Skills: HTML, CSS, JavaScript, React.js, TailwindCSS, Bootstrap5, Node.js, MongoDB, Express.js.
 
-- 🔭 I’m currently working on my interpersonal skills. 
-- 🌱 I’m currently learning React.js 
+- 🔭 I’m currently trying to develop my skills. 
+- 🌱 I’m currently learning Redux 
 - 💬 Ask me about Web Development 
 
 
