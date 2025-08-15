@@ -9,6 +9,7 @@ I’m an adaptable and growth-driven developer with **3+ years of experience** d
 ## 🛠️ Tech Stack
 
 **Frontend**  
+<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
