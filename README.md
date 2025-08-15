@@ -9,32 +9,23 @@ I’m an adaptable and growth-driven developer with **3+ years of experience** d
 ## 🛠️ Tech Stack
 
 **Frontend**  
-<img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,javascript,tailwindcss,bootstrap" />
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,angular,nextjs,tailwind,bootstrap)](https://skillicons.dev)
+[![Frontend](https://skillicons.dev/icons?i=js,ts,html,css,react,angular,nextjs,tailwind,bootstrap)](https://skillicons.dev)
 
 **Backend**  
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,py,django)](https://skillicons.dev)
 
 **Databases**  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
 **DevOps & Tools**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+[![Databases](https://skillicons.dev/icons?i=docker,git,githubactions,gitlab,azure)](https://skillicons.dev)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Tanim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadtanim&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadtanim&layout=compact&theme=radical)
+![Tanim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadtanim24h&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadtanim24h&layout=compact&theme=radical)
 
 ---
 
