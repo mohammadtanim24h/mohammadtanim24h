@@ -2,7 +2,7 @@
 
 💻 **Full-Stack Web Developer** | 🚀 **Problem Solver** | ⚙️ **Tech Enthusiast**  
 
-I’m an adaptable and growth-driven developer with **3+ years of experience** designing and delivering robust web applications — from concept to deployment. I specialize in building **responsive UIs**, **scalable backends**, and **secure deployments** with a passion for clean code and performance optimization.  
+Turning ideas into intuitive, high-performance web experiences — front to back.
 
 ---
 
@@ -36,6 +36,3 @@ I’m an adaptable and growth-driven developer with **3+ years of experience** d
 
 📧 **Email:** mohammad.tanim24h@gmail.com  
 📱 **Phone:** +880 1916-602197  
-
----
-💡 _"Strive for clean, scalable, and impactful code."_  
