@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammad Tanim
 
-💻 **Full-Stack Web Developer** | 🚀 **Problem Solver** | ⚙️ **CI/CD & DevOps Enthusiast**  
+💻 **Full-Stack Web Developer** | 🚀 **Problem Solver** | ⚙️ **Tech Enthusiast**  
 
 I’m an adaptable and growth-driven developer with **3+ years of experience** designing and delivering robust web applications — from concept to deployment. I specialize in building **responsive UIs**, **scalable backends**, and **secure deployments** with a passion for clean code and performance optimization.  
 
@@ -9,8 +9,8 @@ I’m an adaptable and growth-driven developer with **3+ years of experience** d
 ## 🛠️ Tech Stack
 
 **Frontend**  
-<img src="https://skillicons.dev/icons?i=react,angular,next.js,html,css,javascript,tailwindcss,bootstrap" />
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,html,css,javascript,tailwindcss,bootstrap" />
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,angular,nextjs,tailwind,bootstrap)](https://skillicons.dev)
 
 **Backend**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
