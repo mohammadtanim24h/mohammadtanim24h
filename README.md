@@ -10,6 +10,7 @@ I’m an adaptable and growth-driven developer with **3+ years of experience** d
 
 **Frontend**  
 <img src="https://skillicons.dev/icons?i=react,angular,next.js,html,css,javascript,tailwindcss,bootstrap" />
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 **Backend**  
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
