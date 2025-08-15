@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mohammad Tanim
+# 👋 Hi, I'm Tanim!
 
 💻 **Full-Stack Web Developer** | 🚀 **Problem Solver** | ⚙️ **Tech Enthusiast**  
 
@@ -31,7 +31,8 @@ I’m an adaptable and growth-driven developer with **3+ years of experience** d
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-tanim)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-tanim)
+[![Facebook](https://img.shields.io/badge/-Facebook-0866FF?style=flat&logo=facebook&logoColor=white)](https://www.linkedin.com/in/mohammad-tanim)
 📧 **Email:** mohammad.tanim24h@gmail.com  
 📱 **Phone:** +880 1916-602197  
 
