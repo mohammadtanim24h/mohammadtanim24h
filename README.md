@@ -24,7 +24,6 @@ Turning ideas into intuitive, high-performance web experiences — front to back
 
 ## 📈 GitHub Stats
 
-![Tanim's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadtanim24h&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadtanim24h&layout=compact&theme=radical)
 
 ---
