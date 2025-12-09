@@ -25,13 +25,15 @@ Turning ideas into intuitive, high-performance web experiences — front to back
 ## 📈 Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammadtanim24h&show_icons=true&theme=gruvbox" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadtanim24h&layout=compact&theme=gruvbox" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammadtanim24h&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=mohammadtanim24h&theme=github" alt="Contribution Graph" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadtanim24h&theme=gruvbox" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadtanim24h&layout=compact&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohammadtanim24h&theme=tokyonight" />
 </p>
 
 
