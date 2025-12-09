@@ -30,8 +30,5 @@ Turning ideas into intuitive, high-performance web experiences — front to back
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-tanim)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/mohammad.tanim24h)
-
 📧 **Email:** mohammad.tanim24h@gmail.com  
 📱 **Phone:** +880 1916-602197  
