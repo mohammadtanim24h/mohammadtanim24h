@@ -1,28 +1,32 @@
-# 👋 Hi, I'm Tanim!
+# Hi, I'm Tanim!
 
-**Full-Stack Web Developer** | **Problem Solver** | **Tech Enthusiast**
+**Full-Stack Engineer** | **Problem Solver** | **Tech Enthusiast**
 
 Turning ideas into intuitive, high-performance web experiences — front to back.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
-[![Frontend](https://skillicons.dev/icons?i=js,ts,html,css,react,angular,nextjs,tailwind,bootstrap)](https://skillicons.dev)
+
+[![Frontend](https://skillicons.dev/icons?i=react,angular,nextjs,tailwind,bootstrap)](https://skillicons.dev)
 
 ### Backend
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,py,django)](https://skillicons.dev)
+
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,django,fastapi,nestjs)](https://skillicons.dev)
 
 ### Databases
-[![Databases](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
+
+[![Databases](https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase,redis)](https://skillicons.dev)
 
 ### DevOps & Tools
-[![DevOps](https://skillicons.dev/icons?i=docker,git,githubactions,gitlab,azure)](https://skillicons.dev)
+
+[![DevOps](https://skillicons.dev/icons?i=docker,git,aws,azure,sentry)](https://skillicons.dev)
 
 ---
 
-## 📊 Stats
+## Stats
 
 <table>
 <tr>
