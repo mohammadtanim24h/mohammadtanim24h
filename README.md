@@ -1,9 +1,9 @@
 # 💫 About Me:
+<img src="assets/jim.gif" width="400" alt="Jim Carrey typing" align="right" />
+
 🔭 I’m currently working on my own SaaS app<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently learning React Native<br>💬 Ask me about software development<br>⚡ Fun fact: I am not from a technical background
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadtanim24h) 
+## 🌐 Find me on [LinkedIn](https://linkedin.com/in/mohammadtanim24h) 👋
 
 # 💻 Tech Stack:
 
