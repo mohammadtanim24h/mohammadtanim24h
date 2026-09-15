@@ -1,9 +1,9 @@
 <img src="assets/jim.gif" width="400" alt="Jim Carrey typing" align="right" />
 
 ### 💫 About Me:
-Curious by nature, always learning, and usually building something.<br>
-I enjoy solving problems, exploring new ideas, and turning random thoughts into things that actually work.<br><br>
-Outside of code, I’m into music, anime, movies, and late-night gaming sessions.
+Curious by nature, quietly ambitious, and always chasing the next interesting idea.<br>
+I’m a bit of an overthinker, a problem-solver, and someone who genuinely enjoys figuring out how things work.<br><br>
+Outside of code, I’m into music, anime, movies, and late-night gaming sessions - basically anything that keeps me curious or entertained.
 
 ### 🌐 Find me on [LinkedIn](https://linkedin.com/in/mohammadtanim24h) 👋
 
