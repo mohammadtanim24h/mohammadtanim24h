@@ -1,6 +1,4 @@
-<img src="assets/jim.gif" width="400" alt="Jim Carrey typing" align="right" />
-
-### 💫 About Me:
+### 💫 About Me: <img src="assets/jim.gif" width="400" alt="Jim Carrey typing" align="right" />
 Curious by nature, quietly ambitious, and always chasing the next interesting idea.<br>
 I’m a bit of an overthinker, a problem-solver, and someone who genuinely enjoys figuring out how things work.<br><br>
 Outside of code, I’m into music, anime, movies, and late-night gaming sessions - basically anything that keeps me curious or entertained.
@@ -30,7 +28,7 @@ Outside of code, I’m into music, anime, movies, and late-night gaming sessions
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Azure DevOps](https://img.shields.io/badge/azure%20devops-%230078D7.svg?style=for-the-badge&logo=azure-devops&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=mohammadtanim24h&theme=tokyonight&hide_border=false" width="48%" valign="middle" alt="Streak stats" /> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohammadtanim24h&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="48%" valign="middle" alt="Top languages" />
+<img src="https://streak-stats.demolab.com/?user=mohammadtanim24h&theme=tokyonight&hide_border=false" width="53%" valign="middle" alt="Streak stats" /> <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=mohammadtanim24h&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="38%" valign="middle" alt="Top languages" />
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
